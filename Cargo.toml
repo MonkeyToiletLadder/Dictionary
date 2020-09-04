@@ -1,7 +1,7 @@
 [package]
 name = "Dictionary"
 version = "0.1.0"
-authors = ["dylan"]
+authors = ["dylan <dylan_w2014@outlook.com>"]
 edition = "2018"
 license = "MIT"
 description = "Basic \"dictionary\" facilities."
