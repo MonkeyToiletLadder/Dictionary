@@ -6,7 +6,7 @@ edition = "2018"
 license = "MIT"
 description = "Basic \"dictionary\" facilities."
 homepage = "https://github.com/MonkeyToiletLadder/Dictionary"
-reposiory = "https://github.com/MonkeyToiletLadder/Dictionary"
+repository = "https://github.com/MonkeyToiletLadder/Dictionary"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
