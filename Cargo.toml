@@ -1,5 +1,5 @@
 [package]
-name = "DictionaryPhi"
+name = "_Dictionary"
 version = "0.1.0"
 authors = ["Dylan <dylan_w2014@outlook.com>"]
 edition = "2018"
